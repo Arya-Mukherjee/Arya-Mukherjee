@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya Mukherjee</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width = "400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
+<img align="right" alt="coding" width = "400" src ="![e426702edf874b181aced1e2fa5c6cde](https://github.com/user-attachments/assets/6ad54ed2-a0c9-478f-aa6a-8867116710d3)"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arya-mukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="arya-mukherjee" /> </p>
 
 - 🌱 I’m currently learning **Wev Developing**
