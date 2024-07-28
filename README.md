@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Arya Mukherjee</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer from Kolkata</h3>
 <img align="right" alt="coding" width="400"
     src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"></img>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=arya-mukherjee&label=Profile%20views&color=0e75b6&style=flat"
         alt="arya-mukherjee" /> </p>
 
-- 🌱 I’m currently learning **Wev Developing**
+- 🌱 I’m currently learning **Wev Development**
 
 - 💬 Ask me about **C, DSA**
 
