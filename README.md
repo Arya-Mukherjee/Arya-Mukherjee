@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arya Mukherjee</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400"
-    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
+    src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"></img>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=arya-mukherjee&label=Profile%20views&color=0e75b6&style=flat"
         alt="arya-mukherjee" /> </p>
