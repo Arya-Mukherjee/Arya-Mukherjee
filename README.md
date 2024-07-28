@@ -34,11 +34,11 @@
             alt="javascript" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=arya-mukherjee&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=arya-mukherjee&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=ffffff"
         alt="arya-mukherjee" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=arya-mukherjee&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=arya-mukherjee&show_icons=true&locale=en&bg_color=0D1117&title_color=ffffff&text_color=ffffff"
         alt="arya-mukherjee" /></p>
 
 
