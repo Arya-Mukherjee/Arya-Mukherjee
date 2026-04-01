@@ -34,7 +34,11 @@
             alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> </p>
+            alt="javascript" width="40" height="40" />
+                 <img
+            src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fjava%2F&ved=0CBYQjRxqFwoTCOCZ1s6VzZMDFQAAAAAdAAAAABAH&opi=89978449)"
+            alt="java" width="40" height="40" />
+            </a> </p>
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=arya-mukherjee&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=ffffff"
