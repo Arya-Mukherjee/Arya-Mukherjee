@@ -7,9 +7,9 @@
         src="https://komarev.com/ghpvc/?username=arya-mukherjee&label=Profile%20views&color=0e75b6&style=flat"
         alt="arya-mukherjee" /> </p>
 
-- 🌱 I’m currently learning **Wev Development**
+- 🌱 I’m currently practicing **JAVA**
 
-- 💬 Ask me about **C, DSA**
+- 💬 Ask me about **C, JAVA**
 
 - 📫 How to reach me **arya.mukherjee003@gmail.com**
 
